@@ -1,0 +1,158 @@
+*{
+	margin:auto;
+	padding:auto;
+}
+
+p{
+	font-size: 20px;
+}
+
+h1{
+	font-size:50px;
+	font-family:forte;
+}
+
+h2{
+	font-size:30px;
+	font-family:forte;
+}
+
+.bottom p{
+	color: #ffffff; 
+}
+
+.logo div a{
+	padding:10px;
+	text-decoration:none;
+	color:gray;
+}
+.logo div a:hover{
+	color:#428bca;
+}
+
+body
+{
+background-color: #e7e7e7; 
+}
+
+.clear
+{
+clear: both;
+}
+
+#container
+{
+width: 85%;
+height: auto;
+margin: auto;
+
+}
+
+.header
+{
+  padding:10px;
+  color:#484848;
+  font-size:50px;
+  height:150px;
+}
+
+.background
+{
+  color:#fff;
+  background-color: #000000;
+  border-top: 1px solid #aaa;
+  width: 100%;
+  overflow: hidden;
+  border-radius: 20px;
+}
+
+.div1
+{
+width: 20%;
+height: auto;
+float: left;
+margin: auto;
+}
+
+.div2
+{
+width: 40%;
+height: auto;
+float: left;
+margin: auto;
+margin-left:100px;
+padding-top:8px;
+padding-bottom:8px;
+}
+
+.div3
+{
+width: 35%;
+float: right;
+margin: auto;
+margin-right:170px;
+padding:10px;
+}
+
+.top{
+	width:100%;
+	background-color:#8B0000;
+}
+
+.top div{
+	width:1200px;
+	background-color:#000000;
+	padding:10px;
+	text-align:right;
+}
+
+.bottom{
+	width:100%;
+	background-color:#8B0000;
+}
+
+.bottom div{
+	width:1200px;
+	background-color:#000000;
+	padding:10px;
+	text-align:right;
+}
+
+.logo{
+	width:100%;
+  background-color: #ffffff;
+	border-bottom:3px solid #000000;
+}
+
+.logo div{
+	width:1200px;
+	text-align:left;
+}
+
+.middle{
+  margin-top: 37px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+}
+
+.left
+{
+float: left;
+}
+
+.contact {
+float:left;
+width:325px;
+padding:27px;
+margin:30px 10px;
+background:#000000;
+border:1px solid #aaa;
+border-radius: 8px;
+}
+
+.right
+{
+float: right;
+}
+
+
